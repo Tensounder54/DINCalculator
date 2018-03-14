@@ -1,0 +1,16 @@
+Less than 230 mm
+231-250 mm
+251-270 mm (Approx. EU =35, US =4, UK =3)*
+271-290 mm (Approx. EU 36.5-38.5, US 5-6.5, UK 4-5.5)*
+291-310 mm (Approx. EU 39-41, US 7-8.5, UK 6-7.5)*
+311-330 mm (Approx. EU 42-44, US 9-10.5, UK 8-9.5)*
+331-350 mm (Approx. EU 44.5-46, US 11-12.5, UK 10-11.5)*
+More than 351 mm (Approx. EU =47, US =13, UK =12)*
+
+* Shoe sizes are for guidance only, the calculation requires the ski boot sole length.
+The calculator uses the Salomon 2015-16 Adjustment Chart. 
+If "undefined" is displayed, you have not selected all the variables required for the calculation.
+
+If the result is shown as "NA ()" this means that the inputs are outside the normally expected parameters, but the number in the brackets is the recommended setting. 
+
+= =

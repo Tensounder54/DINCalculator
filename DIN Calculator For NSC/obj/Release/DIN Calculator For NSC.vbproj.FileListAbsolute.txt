@@ -1,0 +1,10 @@
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\bin\Release\DIN Calculator For NSC.exe.config
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN_Calculator_For_NSC.DIN_Calculator.resources
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN_Calculator_For_NSC.Disclamer.resources
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN_Calculator_For_NSC.Resources.resources
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN_Calculator_For_NSC.Skier_Types1.resources
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN_Calculator_For_NSC.Skier_Types2.resources
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN Calculator For NSC.vbproj.GenerateResource.Cache
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN Calculator For NSC.exe
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN Calculator For NSC.xml
+F:\austin\DIN Calculator For NSC\DIN Calculator For NSC\obj\Release\DIN Calculator For NSC.pdb
